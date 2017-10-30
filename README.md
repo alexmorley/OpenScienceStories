@@ -22,7 +22,7 @@ Open Code (released at early stage) --> someone shows you they've already got an
 Open Code --> Someone else uses it --> Recognition (citation of orig paper or software)
 
 ## Where did this come from
-Somewhat stemmed from the idea of Open Data open mic. Then resurfaced at a discussion at mozfest '17 facilitated by Amel Ghouila
+Somewhat stemmed from the idea of Open-Data-Open-Mic. Then resurfaced at a discussion at mozfest '17 facilitated by Amel Ghouila
 
 ## Related Projects
 [open-data-open-mic](https://github.com/stephwright/open-data-open-mic) by Steph Wright
