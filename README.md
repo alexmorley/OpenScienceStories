@@ -26,4 +26,5 @@ Somewhat stemmed from the idea of Open-Data-Open-Mic. Then resurfaced at a discu
 
 ## Related Projects
 [open-data-open-mic](https://github.com/stephwright/open-data-open-mic) by Steph Wright
+
 [Open Data Stories](https://theodi.org/stories) by the ODI
